@@ -18249,7 +18249,7 @@ function lj() {
     t = Ml(e.breakpoints.down("md")),
     n = () => {
       navigator.clipboard
-        .writeText("0x...")
+        .writeText("0xd57c673e3687726AdAD7B619d133b6c3CB2B385B")
         .then(() => {
           console.log("Text copied successfully");
         })
@@ -18292,12 +18292,12 @@ function lj() {
                   p.jsx(ge, {
                     variant: "caption",
                     color: "azure",
-                    children: r("0x..."),
+                    children: r("0xd57c673e3687726AdAD7B619d133b6c3CB2B385B"),
                   }),
                 ],
               }),
               p.jsx("a", {
-                href: "https://dextools.io",
+                href: "https://www.dextools.io/app/en/base/pair-explorer/0xd26b2f3a0625ad1040dd32d060a6be7ba06efc01?t=1713722579691",
                 style: {
                   background:
                     ' url("assets/img/ready/ready-copy-button-background.svg") center center no-repeat',
@@ -18346,12 +18346,12 @@ function lj() {
                       variant: t ? "caption" : "h6",
                       className: "ca",
                       sx: { position: "absolute", top: t ? 10 : 60, left: 20 },
-                      children: "0x...",
+                      children: "0xd57c673e3687726AdAD7B619d133b6c3CB2B385B",
                     }),
                   ],
                 }),
                 p.jsx("a", {
-                  href: "https://dextools.io",
+                  href: "https://www.dextools.io/app/en/base/pair-explorer/0xd26b2f3a0625ad1040dd32d060a6be7ba06efc01?t=1713722579691",
                   style: {
                     background:
                       ' url("assets/img/ready/ready-copy-button-background.svg") center center no-repeat',
