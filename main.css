@@ -1,0 +1,20 @@
+
+  
+  @font-face {
+    font-family: "Bubblegum";
+    /* font-weight: 200; */
+    font-style: normal;
+    src: url(assets/fonts/Bubblegum.ttf)
+  }
+  
+  *,*::after,*::before {
+    box-sizing: border-box
+  }
+  
+  body {
+    min-height: 100vh;
+    font-family: "Bubblegum";
+    background: #BEECFF
+  }
+  
+  
