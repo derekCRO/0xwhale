@@ -18140,14 +18140,14 @@ const sj = Mv(
               p.jsx(Ir, {
                 component: "a",
                 target: "_blank",
-                href: "https://twitter.com/zeroxwhale_base",
+                href: "https://twitter.com/whale0x_eth",
                 children: p.jsx("img", { src: "assets/svg/x.svg", width: 20 }),
               }),
               p.jsx(Ir, {
                 sx: { ml: 2 },
                 component: "a",
                 target: "_blank",
-                href: "https://t.me/zeroxwhale_base",
+                href: "https://t.me/whale0x_eth",
                 children: p.jsx("img", { src: "assets/svg/te.svg", width: 20 }),
               }),
             ],
@@ -18221,7 +18221,7 @@ const sj = Mv(
                 p.jsx(Ir, {
                   component: "a",
                   target: "_blank",
-                  href: "https://twitter.com/zeroxwhale_base",
+                  href: "https://twitter.com/whale0x_eth",
                   children: p.jsx("img", {
                     src: "assets/svg/x.svg",
                     width: 20,
@@ -18231,7 +18231,7 @@ const sj = Mv(
                   sx: { ml: 1 },
                   component: "a",
                   target: "_blank",
-                  href: "https://t.me/zeroxwhale_base",
+                  href: "https://t.me/whale0x_eth",
                   children: p.jsx("img", {
                     src: "assets/svg/te.svg",
                     width: 20,
@@ -18249,7 +18249,7 @@ function lj() {
     t = Ml(e.breakpoints.down("md")),
     n = () => {
       navigator.clipboard
-        .writeText("0xd57c673e3687726AdAD7B619d133b6c3CB2B385B")
+        .writeText("0x...")
         .then(() => {
           console.log("Text copied successfully");
         })
@@ -18292,12 +18292,12 @@ function lj() {
                   p.jsx(ge, {
                     variant: "caption",
                     color: "azure",
-                    children: r("0xd57c673e3687726AdAD7B619d133b6c3CB2B385B"),
+                    children: r("0x..."),
                   }),
                 ],
               }),
               p.jsx("a", {
-                href: "https://www.dextools.io/app/en/base/pair-explorer/0xd26b2f3a0625ad1040dd32d060a6be7ba06efc01?t=1713722579691",
+                href: "https://www.dextools.io/app/en/ether/pool-explorer",
                 style: {
                   background:
                     ' url("assets/img/ready/ready-copy-button-background.svg") center center no-repeat',
@@ -18346,12 +18346,12 @@ function lj() {
                       variant: t ? "caption" : "h6",
                       className: "ca",
                       sx: { position: "absolute", top: t ? 10 : 60, left: 20 },
-                      children: "0xd57c673e3687726AdAD7B619d133b6c3CB2B385B",
+                      children: "0x...",
                     }),
                   ],
                 }),
                 p.jsx("a", {
-                  href: "https://www.dextools.io/app/en/base/pair-explorer/0xd26b2f3a0625ad1040dd32d060a6be7ba06efc01?t=1713722579691",
+                  href: "https://www.dextools.io/app/en/ether/pool-explorer",
                   style: {
                     background:
                       ' url("assets/img/ready/ready-copy-button-background.svg") center center no-repeat',
@@ -24473,7 +24473,7 @@ const yA = (e, t) =>
                 children: [
                   p.jsx("a", {
                     className: "footer__btn footer__btn_sm",
-                    href: "https://twitter.com/zeroxwhale_base",
+                    href: "https://twitter.com/whale0x_eth",
                     target: "_blank",
                     children: p.jsx("img", {
                       src: "assets/svg/twitter1.svg",
@@ -24482,7 +24482,7 @@ const yA = (e, t) =>
                   }),
                   p.jsxs("a", {
                     className: "footer__btn",
-                    href: "https://t.me/zeroxwhale_base",
+                    href: "https://t.me/whale0x_eth",
                     target: "_blank",
                     children: [
                       p.jsx("img", {
@@ -24505,7 +24505,7 @@ const yA = (e, t) =>
             children: [
               p.jsx("a", {
                 className: "footer__btn footer__btn_sm",
-                href: "https://twitter.com/zeroxwhale_base",
+                href: "https://twitter.com/whale0x_eth",
                 target: "_blank",
                 children: p.jsx("img", {
                   src: "assets/svg/twitter1.svg",
@@ -24514,7 +24514,7 @@ const yA = (e, t) =>
               }),
               p.jsxs("a", {
                 className: "footer__btn",
-                href: "https://t.me/zeroxwhale_base",
+                href: "https://t.me/whale0x_eth",
                 target: "_blank",
                 children: [
                   p.jsx("img", { src: "assets/svg/telegram1.svg", alt: "" }),
