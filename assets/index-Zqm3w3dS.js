@@ -18249,7 +18249,7 @@ function lj() {
     t = Ml(e.breakpoints.down("md")),
     n = () => {
       navigator.clipboard
-        .writeText("0x...")
+        .writeText("0x6E57be802B9c3aB332687eC23aA3bAF565438C9B")
         .then(() => {
           console.log("Text copied successfully");
         })
@@ -18292,7 +18292,7 @@ function lj() {
                   p.jsx(ge, {
                     variant: "caption",
                     color: "azure",
-                    children: r("0x..."),
+                    children: r("0x6E57be802B9c3aB332687eC23aA3bAF565438C9B"),
                   }),
                 ],
               }),
@@ -18346,7 +18346,7 @@ function lj() {
                       variant: t ? "caption" : "h6",
                       className: "ca",
                       sx: { position: "absolute", top: t ? 10 : 60, left: 20 },
-                      children: "0x...",
+                      children: "0x6E57be802B9c3aB332687eC23aA3bAF565438C9B",
                     }),
                   ],
                 }),
