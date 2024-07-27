@@ -24634,7 +24634,7 @@ const jA = (e) =>
                         variant: "h5",
                         sx: { mb: 2 },
                         children:
-                          "Hi, I am 0xWhale, the leader of the sea! With my presence in the Base water, I will guide my fellow ocean creatures to success.",
+                          "Hi, I am 0xWhale, the leader of the sea! With my presence in the ETH water, I will guide my fellow ocean creatures to success.",
                       }),
                       p.jsx(ge, {
                         variant: "h5",
